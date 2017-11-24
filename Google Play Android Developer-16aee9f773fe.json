@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-5304854878311626186-440321",
+  "private_key_id": "16aee9f773fedaf31d6bd26bd34e800172f36b08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXZvnTF7tukbPg\nEfe1JG8QEl1adoB0vDMVniCN4IPWpA9hl481UMQfR6OYjwOmZ5+9YKn+SqCxrkp/\niSk4tsO08nvQpCtK4b4aDm1xgJKAkm1ClVj2OBnu32RfUgCCOTdm8hozJaaEZM7p\nvPvBEmVI+UzJBz8cX/AW+vSyAxMUTYFJ9dRg3DLSPGfKQLD/F69i5yv3J6U+dUGi\n1WUJprRvGITu6PaItR4SxKRHIpWvjrrEIn07IuixRmz0n4ymOXNr10A8FQAaX6gO\nCQnTopHjI5HviZcjome3QAEQslnaC5k7Zn6xIhd9dwLrqLWSv1StXI5MWa6n75yD\np1HU0d6hAgMBAAECggEADnmHPrPlBOUL8QsStzgioKMa1vpfnVl9Wk6d/uZ1QEz6\n1fodFEwylel91ejtYMhFLMA8PF4y5w3aXD9XKC+L/iWVKg06ANycdcYFl12DFCT7\nqmsYIGEcdJqZsGXI++o/tllE4TkzJnLzV8QsPwkU0yFXgpwtX9d5vx6yzH6QAUei\ng6AjSoSt/DHZZk2p4o/+8Lpah3lKgHYDq2q/hxhvHvDwveZtw5LRvbmE5i+HgUxv\ndImxbdxogzlzfTiqETID4mBRYaEzbYNrKBaLbDl9lHeuCcEESyLrBnGaFg726BrX\nsvC4SKUH3eXSQC+86Ic9hQjfy6jCAHtaGEqlJ34T+QKBgQDIEmJhxHixQ2iuKPSj\nt+apIc7cBINTIpIbsAYXYN7J4sxi9twYSxItRy8ya/vD+9ae4QvmjK4UilBnpEzT\nAXEzK875SGHxQd7ZSwZqUOfr631WtBpCJb6wETcDDCn7xCh3VgW9BYWbYxYYFr1+\n6qWGbzx96/Xtg2cimxgXBXMGCQKBgQDBua59IWmw2Iasbo3cbvoCW8iX3Vy+bujo\nsfTWsqUBKbCHPd1AdoR2jpUja8lIWZ1eCCu/zC6WydpBFO4TS/GUnvURjDqKUIOZ\nd6+IeJ1+dvOpcZ7RLZUZqseXyjdbqB9lQlFMSUI4Fn1JeobAGMFSJWkcA7jMcgf3\nA7HSvpv52QKBgFiSMvWfOeMXuX7oaK0V28piSiaC5PRn6JDTU08ENnzfp6XkLTmf\n+lMLIWzL+zAfDDtX26HcA7DaLpBDXzNGfyutKDqZfaqFg7dkjFmCqbl6jglVQA6q\nkQl3BYiW2Ps5MsTp0y6EBErvCbfuUUOfc1nZYslILZ5RPtZGHNsMMYipAoGBAKWV\noZhhA+bd3JbsVCMzVEzJyPZNhmVbhYbH/P+6aKFK0hF3BnOAGg8AJmfFTKGjv4fN\nMh/ZVYUbeYshabFiu1YOXGioVK0+zo1RqN7cQboD0Jdnf5lJ/eSXfcy3UoPsexFh\nEv5Cq/AnAOXabe0p+6vMQEBqyf0uBrLTHJ6Gv+lZAoGBAJo1p8H2L8O0oh3HMYJJ\nxRKhhs+6vzgcsHna4CEploDiPv/TfEXzNcs4gupesOxPIQ57mAcvxnI6eolEWOow\nI2V39NLRBt9X77fIj4dz7k3nnyT6vbkFAaVYHOrl62dWayNbnAJHHki+K0qb+iJK\nrZ2EbvwwPakY9/NAJgZ7mBsT\n-----END PRIVATE KEY-----\n",
+  "client_email": "fabricfastlanedemo@api-5304854878311626186-440321.iam.gserviceaccount.com",
+  "client_id": "116412812779387820659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fabricfastlanedemo%40api-5304854878311626186-440321.iam.gserviceaccount.com"
+}
